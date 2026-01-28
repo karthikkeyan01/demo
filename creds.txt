@@ -1,2 +1,0 @@
-username = kk01
-password = kk@01
